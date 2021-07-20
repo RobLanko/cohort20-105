@@ -1,0 +1,47 @@
+body{
+    background-color: #cfcfcf;
+}
+h1 {
+    color: black;
+    background-color: cornsilk;
+    text-align: center;
+    margin: 0 0 10px 0;
+    padding: 10px 0;
+}
+.capture-form{
+    border: 1px solid #cfcfcf;
+    width: 340px;
+    padding: 20px 0 20px 0;
+    border-radius: 8px;
+}
+
+.control {
+    padding: 5px 10px;
+}
+
+.control label {
+    display: inline-block;
+    width: 110px;
+    text-align: right;
+}
+
+.control input,
+.control select {
+    display: inline-block;
+    width: 150px;
+    padding: 4px 7px;
+    margin-left: 5px;
+}
+
+.control select {
+    width: 167px;
+}
+
+#btnSave {
+    display: inline-block;
+    padding: 0.7rem 1.4rem;
+    margin-left: 150px;
+    border-radius: 5px;
+    /* find a copy and paste css button!*/
+
+}
